@@ -1,2 +1,2 @@
 # naztekinalp.me
-naz
+Personal website (naztekinalp.me)
